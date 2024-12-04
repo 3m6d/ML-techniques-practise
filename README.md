@@ -1,6 +1,3 @@
-Here is a draft README.md file for your repository, `ML-techniques-practise`:
-
-```markdown
 # ML-techniques-practise
 
 Repository for daily machine learning practice and experiments.
